@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  padding: 5%;
+}
+
+body {
+  background-image: url("../assets/supersquad.jpg");
+  height: 100%;
+  background-repeat: none;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.right-button {
+  cursor: pointer;
+  float: right;
+}
+
+.list-item {
+  display: inline-block;
+}
